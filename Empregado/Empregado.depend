@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1563830461 source:c:\users\aluno\desktop\empregado\main.cpp
+	<iostream>
+	"Empregado.h"
+
+1563830735 c:\users\aluno\desktop\empregado\include\empregado.h
+	<iostream>
+
+1563830575 source:c:\users\aluno\desktop\empregado\src\empregado.cpp
+	"Empregado.h"
+
+1563845736 source:c:\users\arthur niodizeo\desktop\lab2\empregado\main.cpp
+	<iostream>
+	"Empregado.h"
+
+1563805846 c:\users\arthur niodizeo\desktop\lab2\empregado\include\empregado.h
+	<iostream>
+
+1563845425 source:c:\users\arthur niodizeo\desktop\lab2\empregado\src\empregado.cpp
+	"Empregado.h"
+
