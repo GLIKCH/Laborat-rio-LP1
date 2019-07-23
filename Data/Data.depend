@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1562784410 source:c:\users\aluno\desktop\datageral\data\main.cpp
+	<iostream>
+	"Data.h"
+	<stdio.h>
+
+1562782648 c:\users\aluno\desktop\datageral\data\include\data.h
+	<string>
+
+1562784594 source:c:\users\aluno\desktop\datageral\data\src\data.cpp
+	"Data.h"
+	<iostream>
+
